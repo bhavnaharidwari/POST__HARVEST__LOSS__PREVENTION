@@ -215,9 +215,3 @@ Column names are normalised automatically (case, spaces, hyphens). Missing featu
 ## 🎯 Objectives
 
 Reduce post-harvest losses · predict spoilage before it occurs · improve storage management · extend shelf life · reduce food waste · support data-driven agriculture.
-
----
-
-## 📄 License
-
-Add your license here (e.g. MIT).
