@@ -1,0 +1,13 @@
+[
+    "Category",
+    "Produce_Name",
+    "Temperature",
+    "Storage_Type",
+    "Storage_Duration",
+    "Weather",
+    "Season",
+    "Quality_Score",
+    "Health_Score",
+    "CO2_Level",
+    "Ethylene_Level"
+]
